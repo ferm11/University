@@ -1,5 +1,5 @@
 # CARRERAS
-1. Desarrollo de software
-2. Contabilidad
-3. Entornos
-4. Diseño
+1. Desarrollo de software.
+2. Contabilidad.
+3. ENTORNOS VIRTUALES.
+4. Diseño.
